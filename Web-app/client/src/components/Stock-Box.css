@@ -1,0 +1,12 @@
+.stockbox {
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 2%;
+}
+
+.stockbox h3 {
+    color: white !important;
+}

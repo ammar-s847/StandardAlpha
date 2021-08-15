@@ -1,0 +1,12 @@
+.header {
+    padding-top: 15px;
+}
+
+.header h1 {
+    color: white !important;
+
+}
+
+span[class="seagreen"] {
+    color: #20b2aa;
+}

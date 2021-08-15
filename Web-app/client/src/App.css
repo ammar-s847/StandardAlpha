@@ -1,0 +1,21 @@
+* {
+  color: white;
+}
+
+.App {
+  background-color: #161a25;
+  width: 98%;
+  margin-left: 1%;
+}
+
+iframe {
+  border: none;
+}
+
+.stockbox {
+  display: inline-block;
+}
+
+h2 {
+  color: white;
+}
